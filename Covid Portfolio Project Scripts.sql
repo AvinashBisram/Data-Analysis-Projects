@@ -75,9 +75,6 @@ order by 1,2
 
 -- Looking at Total Population vs Vaccinations
 
-
-
-
 -- USE CTE
 
 With PopvsVac (Continent, Location, Date, Population, New_Vaccinations, RollingPeopleVaccinated)
