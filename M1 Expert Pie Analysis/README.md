@@ -25,6 +25,17 @@ Then, for each of my analysis questions...
 At the end of my project, I have a small list of potential improvements I could make to my project if I wished to expand on this idea in the future. 
 <br>
 
+**My Analysis Questions**  
+How does changing the retirement year and/or the risk of the investments affect the...
+1. Annual dividend yields?
+2. Historic 1-year, 3-year, and 5-year returns?
+3. Relative percentage allocated to each type of security (cash, stocks, bond, commodity/blend)?
+4. Top 5 individual fund preferences?
+5. Bottom 5 individual fund preferences?
+6. Preference of fund location (US, international, or all)?
+7. Allocation of the different caps?
+8. Preference of value vs. growth funds?
+
 **Skills demonstrated by this project:**
  * Data Cleaning (using Pandas)
     - Finding Missing Values
