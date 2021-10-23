@@ -3,7 +3,6 @@ Data Analysis of M1 Expert Pies
 
 Overview:
 ---------
----
 
 **What this application does:**  
 This project is a data visualization and analysis of M1 Finance's premade retirement portfolios (known as Expert Pies).
@@ -40,10 +39,8 @@ At the end of my project, I have a small list of potential improvements I could 
     - Trend summaries objectively explain pertinent findings
     - Deeper analysis was performed after visualizing to provide more context
 
-<br>
 About M1 Finance's Expert Pies:
 -------------------------------
----
 
 M1 Finance has a unique method of constructing investment portfolios. M1 Finance users construct a "pie" which specify percentage allocations for various securities. A certain percentage of the pie is allocated to each desired security and all percentages must add up to 100%. (Example: One pie might have 50% allocated for VOO and 50% for VTI). Rather than depositing money into the individual securities, M1 users then deposit money to the entire "pie" and that money is then deposited to the comprising securities based on the percentage they were allocated.
 
@@ -81,10 +78,8 @@ Snapshots of the "2060 Aggressive Pie" can be seen here:
 
 As seen above, percentage allocations of securities change when Risk Type varies (in the same Projected Retirement Year) and when the Projected Retirement Year changes as well. Other attributes about the portfolios change as well which prompted me to formulate questions to explore further.
 
-<br>
 Motivation Behind this Project:
 -------------------------------
----
 
 I wanted to learn more about investing in the stock market (particularly for retirement) but I was becoming overwhelmed by the plethora of factors that could influence how one constructs their investment portfolio.  
 After researching various investment brokering apps, I stumbled on M1 Finance and decided to learn more about what they offered.  
