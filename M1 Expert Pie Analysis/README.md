@@ -56,9 +56,9 @@ This project analyzes the various premade portfolios listed in the **Plan for Re
 <br>
 
 A side-by-side comparison of the "2020 Aggressive", "2020 Conservative", and "2060 Aggressive" Pies can be seen here:  
-<img alt="2020 Aggressive Pie" title="2020 Aggressive Pie" src="readMeImages/2020 Aggressive Pie.jpg" width=400px height=800px style="float:left; padding-top:5px;">
-<img alt="2020 Conservative Pie" title="2020 Conservative Pie" src="readMeImages/2020 Conservative Pie.jpg" width=400px height=800px style="float:left; padding-top:5px; margin-left:10px; margin-right:10px;">
-<img alt="2060 Aggressive Pie" title="2060 Aggressive Pie" src="readMeImages/2060 Aggressive Pie.jpg" width=400px height=800px style="float:left; padding-top:5px;">    
+<img alt="2020 Aggressive Pie" title="2020 Aggressive Pie" src="readMeImages/2020 Aggressive Pie.jpg" width=300px height=600px style="float:left; padding-top:5px;">
+<img alt="2020 Conservative Pie" title="2020 Conservative Pie" src="readMeImages/2020 Conservative Pie.jpg" width=300px height=600px style="float:left; padding-top:5px; margin-left:10px; margin-right:10px;">
+<img alt="2060 Aggressive Pie" title="2060 Aggressive Pie" src="readMeImages/2060 Aggressive Pie.jpg" width=300px height=600px style="float:left; padding-top:5px;">    
 <br style="clear:left;">
 
 As seen above, percentage allocations of securities change when Risk Type varies (within the same Projected Retirement Year) and when the Projected Retirement Year changes as well. Other attributes about the portfolios change as well which prompted me to formulate questions to explore further.
