@@ -14,6 +14,22 @@ This project is a data visualization and analysis of M1 Finance's premade retire
 I utilized **Microsoft Excel** to store the raw data for each portfolio. I utilized the **Pandas** Python module for data cleaning and exploration, and used the **Seaborn** Python module to create data visualizations with hopes of answering my initial questions about the portfolios. 
 <br>
 
+**Skills demonstrated by this project:**
+ * Data Cleaning (using Pandas)
+    - Finding Missing Values
+    - Casting to different data types
+    - Dropping rows/columns  
+ * Data Exploration (using Pandas)
+    - Slicing and creating views
+    - Sorting by rows/columns
+    - Grouping and aggregate functions
+ * Data Visualization (using Seaborn)
+    - Choosing the right visualization to answer each question (this project mainly used line graphs and heatmaps)
+    - Making the visualizations look aesthetically pleasing (modifying colors, legend placement, using subplots, etc.)
+ * Ability to interpret and communicate findings
+    - Trend summaries objectively explain pertinent findings
+    - Deeper analysis was performed after visualizing to provide more context
+
 **How is this project organized:**  
 Relevant data for each portfolio was manually recorded into a **Microsoft Excel** file. It was then converted into a CSV file (<em>See m1_pies.csv</em>). The CSV file was put into a **Pandas** data frame where some initial data cleaning and exploration was done.  
 <br>
@@ -35,22 +51,6 @@ How does changing the retirement year and/or the risk of the investments affect 
 6. Preference of fund location (US, international, or all)?
 7. Allocation of the different caps?
 8. Preference of value vs. growth funds?
-
-**Skills demonstrated by this project:**
- * Data Cleaning (using Pandas)
-    - Finding Missing Values
-    - Casting to different data types
-    - Dropping rows/columns  
- * Data Exploration (using Pandas)
-    - Slicing and creating views
-    - Sorting by rows/columns
-    - Grouping and aggregate functions
- * Data Visualization (using Seaborn)
-    - Choosing the right visualization to answer each question (this project mainly used line graphs and heatmaps)
-    - Making the visualizations look aesthetically pleasing (modifying colors, legend placement, using subplots, etc.)
- * Ability to interpret and communicate findings
-    - Trend summaries objectively explain pertinent findings
-    - Deeper analysis was performed after visualizing to provide more context
 
 About M1 Finance's Expert Pies
 -------------------------------
