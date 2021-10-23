@@ -74,7 +74,6 @@ Snapshots of the "2060 Aggressive Pie" can be seen here:
 <img alt="2060 Aggressive Info" title="2060 Aggressive Info" src="readMeImages/2060 Aggressive Info.jpg" width=400px height=800px style="float:left; margin-right:15px; padding-top:5px;">
 <img alt="2060 Aggressive Pie" title="2060 Aggressive Pie" src="readMeImages/2060 Aggressive Pie.jpg" width=400px height=800px style="float:left; padding-top:5px;">    
 <br style="clear:left;">
-<br>
 
 As seen above, percentage allocations of securities change when Risk Type varies (in the same Projected Retirement Year) and when the Projected Retirement Year changes as well. Other attributes about the portfolios change as well which prompted me to formulate questions to explore further.
 
