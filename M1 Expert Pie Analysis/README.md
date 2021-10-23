@@ -46,10 +46,7 @@ M1 Finance has a unique method of constructing investment portfolios. M1 Finance
 
 <br>
 
-M1 Finance's mobile app has a section for **Research** where one can navigate to their selection of **Expert Pies** or premade investment portfolios. The various types of Expert Pies offered can be seen here:  
-<br>
-<img alt="M1 Expert Pie Categories" title="M1 Expert Pie Categories" src="readMeImages/M1 Expert Pie Categories.jpg" width=400px height=800px>
-
+M1 Finance's mobile app has a section for **Research** where one can navigate to their selection of **Expert Pies** or premade investment portfolios. They offer several categories for their Expert Pies including: _General Investment_, _Plan for Retirement_, _Responsible Investing_, _Hedge Fund Followers_, and more.  
 <br>
 
 This project analyzes the various premade portfolios listed in the **Plan for Retirement** section. Once within this section, M1 Finance recommends sample portfolios based on the user's desired _Projected Retirement Year_ (between 2020 and 2060) and _Risk Type_ (Aggressive, Moderate, or Conservative). A snapshot of that screen can be seen here:
@@ -58,24 +55,13 @@ This project analyzes the various premade portfolios listed in the **Plan for Re
 
 <br>
 
-Snapshots of the "2020 Aggressive Pie" can be seen here:  
-<img alt="2020 Aggressive Info" title="2020 Aggressive Info" src="readMeImages/2020 Aggressive Info.jpg" width=400px height=800px style="float:left; margin-right:15px; padding-top:5px;">
+A side-by-side comparison of the "2020 Aggressive", "2020 Conservative", and "2060 Aggressive" Pies can be seen here:  
 <img alt="2020 Aggressive Pie" title="2020 Aggressive Pie" src="readMeImages/2020 Aggressive Pie.jpg" width=400px height=800px style="float:left; padding-top:5px;">
-<br style="clear:left;">
-<br>  
-
-Snapshots of the "2020 Conservative Pie" can be seen here:  
-<img alt="2020 Conservative Info" title="2020 Conservative Info" src="readMeImages/2020 Conservative Info.jpg" width=400px height=800px style="float:left; margin-right:15px; padding-top:5px;">
-<img alt="2020 Conservative Pie" title="2020 Conservative Pie" src="readMeImages/2020 Conservative Pie.jpg" width=400px height=800px style="float:left; padding-top:5px;">  
-<br style="clear:left;">
-<br>
-
-Snapshots of the "2060 Aggressive Pie" can be seen here:  
-<img alt="2060 Aggressive Info" title="2060 Aggressive Info" src="readMeImages/2060 Aggressive Info.jpg" width=400px height=800px style="float:left; margin-right:15px; padding-top:5px;">
+<img alt="2020 Conservative Pie" title="2020 Conservative Pie" src="readMeImages/2020 Conservative Pie.jpg" width=400px height=800px style="float:left; padding-top:5px; margin-left:10px; margin-right:10px;">
 <img alt="2060 Aggressive Pie" title="2060 Aggressive Pie" src="readMeImages/2060 Aggressive Pie.jpg" width=400px height=800px style="float:left; padding-top:5px;">    
 <br style="clear:left;">
 
-As seen above, percentage allocations of securities change when Risk Type varies (in the same Projected Retirement Year) and when the Projected Retirement Year changes as well. Other attributes about the portfolios change as well which prompted me to formulate questions to explore further.
+As seen above, percentage allocations of securities change when Risk Type varies (within the same Projected Retirement Year) and when the Projected Retirement Year changes as well. Other attributes about the portfolios change as well which prompted me to formulate questions to explore further.
 
 Motivation Behind this Project:
 -------------------------------
