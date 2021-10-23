@@ -51,7 +51,7 @@ M1 Finance's mobile app has a section for **Research** where one can navigate to
 
 This project analyzes the various premade portfolios listed in the **Plan for Retirement** section. Once within this section, M1 Finance recommends sample portfolios based on the user's desired _Projected Retirement Year_ (between 2020 and 2060) and _Risk Type_ (Aggressive, Moderate, or Conservative). A snapshot of that screen can be seen here:
 <br>
-<img alt="Plan for Retirement Pies" title="Plan for Retirement Pies" src="readMeImages/Plan for Retirement Pies.jpg" width=400px height=800px style="padding-top:5px;">
+<img alt="Plan for Retirement Pies" title="Plan for Retirement Pies" src="readMeImages/Plan for Retirement Pies.jpg" width=300px height=600px style="padding-top:5px;">
 
 <br>
 
