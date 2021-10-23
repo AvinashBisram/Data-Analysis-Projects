@@ -3,7 +3,7 @@ Data Analysis of M1 Expert Pies
 
 **Note:** If you already have **Jupyter Notebooks** installed you can view the _M1 Expert Pie Analysis.ipynb_ file there but if not, please click [here](https://colab.research.google.com/github/AvinashBisram/PortfolioProjects/blob/main/M1%20Expert%20Pie%20Analysis/M1%20Expert%20Pie%20Analysis.ipynb) to view the project in Google Colaboratory. Thank you!
 
-Overview:
+Overview
 ---------
 
 **What this application does:**  
@@ -52,7 +52,7 @@ How does changing the retirement year and/or the risk of the investments affect 
     - Trend summaries objectively explain pertinent findings
     - Deeper analysis was performed after visualizing to provide more context
 
-About M1 Finance's Expert Pies:
+About M1 Finance's Expert Pies
 -------------------------------
 
 M1 Finance has a unique method of constructing investment portfolios. M1 Finance users construct a "pie" which specify percentage allocations for various securities. A certain percentage of the pie is allocated to each desired security and all percentages must add up to 100%. (Example: One pie might have 50% allocated for VOO and 50% for VTI). Rather than depositing money into the individual securities, M1 users then deposit money to the entire "pie" and that money is then deposited to the comprising securities based on the percentage they were allocated.
@@ -76,7 +76,7 @@ A side-by-side comparison of the "2020 Aggressive", "2020 Conservative", and "20
 
 As seen above, percentage allocations of securities change when Risk Type varies (within the same Projected Retirement Year) and when the Projected Retirement Year changes as well. Other attributes about the portfolios change as well which prompted me to formulate questions to explore further.
 
-Motivation Behind this Project:
+Motivation Behind this Project
 -------------------------------
 
 I wanted to learn more about investing in the stock market (particularly for retirement) but I was becoming overwhelmed by the plethora of factors that could influence how one constructs their investment portfolio.  
