@@ -24,8 +24,8 @@ The raw data was stored in **Microsoft Excel** (_see Nashville Housing Data.xlsx
 **How is this project organized:**  
 This project starts with transforming the string representation of dates into that of DATE dtypes.  
 Then, a self join is used to resolve missing fields in otherwise duplicate rows.  
-Next, string splicing is used to create more specific columns out of a single address (using substring and parsename).
-Then, a case statement is used to conditionally alter certain fields.
+Next, string splicing is used to create more specific columns out of a single address (using substring and parsename).  
+Then, a case statement is used to conditionally alter certain fields.  
 Finally, the duplicate rows mentioned before are removed, before transformed/unused columns are dropped from the table entirely.
 
 
