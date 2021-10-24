@@ -26,7 +26,7 @@ This project starts with transforming the string representation of dates into th
 Then, a self join is used to resolve missing fields in otherwise duplicate rows.  
 Next, string splicing is used to create more specific columns out of a single address (using substring and parsename).  
 Then, a case statement is used to conditionally alter certain fields.  
-Finally, the duplicate rows mentioned before are removed, before transformed/unused columns are dropped from the table entirely.
+Finally, the duplicate rows mentioned before are removed and transformed/unused columns are dropped from the table entirely.
 
 
 Motivation Behind this Project
