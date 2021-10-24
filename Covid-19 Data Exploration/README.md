@@ -7,7 +7,7 @@ Overview
 --------
 
 **What this project does:**  
-This project explores global Covid-19 data and creates additional statistics to be visualized in the future.
+This project explores Covid-19 data and creates queries per individual country, continent, and globally.
 
 **What technologies did I use and why:**  
 I used **Microsoft Excel** to store data extracted from [Coronavirus (Covid-19) Deaths](https://ourworldindata.org/covid-deaths) dataset from [Our World in Data](https://ourworldindata.org).
