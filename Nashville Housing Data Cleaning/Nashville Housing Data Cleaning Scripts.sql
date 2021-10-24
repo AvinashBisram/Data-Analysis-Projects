@@ -103,7 +103,7 @@ Order by 2
 
 Select SoldAsVacant -- making sure it works as intended before updating the table
 , CASE When SoldAsVacant = 'Y' THEN 'Yes' -- whenever the field is 'Y', change it to 'Yes'
-	   When SoldAsVacant = 'N' THEN 'No' -- whenever the field is 'N', change it to 'N'
+	   When SoldAsVacant = 'N' THEN 'No' -- whenever the field is 'N', change it to 'No'
 	   ELSE SoldAsVacant -- else don't make any change
 	   END
 From PortfolioProject.dbo.NashvilleHousing
