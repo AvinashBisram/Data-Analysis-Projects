@@ -10,7 +10,7 @@ Overview
 This project explores Covid-19 data, looking at relevant statistics per individual country, continent, and globally.
 
 **What technologies did I use and why:**  
-I used **Microsoft Excel** to store data extracted from [Coronavirus (Covid-19) Deaths](https://ourworldindata.org/covid-deaths) dataset from [Our World in Data](https://ourworldindata.org).
+I used **Microsoft Excel** to store data extracted from the [Coronavirus (Covid-19) Deaths](https://ourworldindata.org/covid-deaths) dataset from [Our World in Data](https://ourworldindata.org).
 I then used **Microsoft SQL Server** to write the appropriate queries to create the statistics I wanted to learn about.
 
 **Skills demonstrated by this project:**  
