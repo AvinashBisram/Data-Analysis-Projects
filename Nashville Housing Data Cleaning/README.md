@@ -31,4 +31,4 @@ Finally, the duplicate rows mentioned before are removed and transformed/unused 
 
 Motivation Behind this Project
 ------------------------------
-I made this project to gain more experience with data cleaning and transformation in SQL. I attempted to use slightly more advanced SQL techniques such as string splicing, case statements, and a creative use of table joining to resolve an issue with missing field values. The main goal was become more comfortable modifying data using SQL.
+I made this project to gain more experience with data cleaning and transformation in SQL. I attempted to use slightly more advanced SQL techniques such as string splicing, case statements, and a creative use of table joining to resolve an issue with missing field values. The main goal was become more comfortable with modifying data using SQL.
