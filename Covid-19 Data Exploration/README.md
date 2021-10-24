@@ -25,12 +25,12 @@ SQL Querying using...
 * Views
 
 **How is this project organized:**  
-This project starts with queries showcasing all of the raw data. I then construct queries for additional Covid-19 statistics that were not included in the original data.  
+This project starts with queries showcasing all of the raw data. I then construct queries for additional Covid-19 statistics that were not included in the original data.
+<br>  
 These statistics include those made per country such as:
 * Death Likelihood over time (probability of one dying if they contracted Covid-19 in their country),
 * Percentage of Population Infected over time, and
 * Total Death Count per country
-<br>
 
 and those made per continent and globally such as:  
 * Total Death Count per continent, and
