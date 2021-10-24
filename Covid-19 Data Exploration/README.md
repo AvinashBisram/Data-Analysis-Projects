@@ -10,7 +10,7 @@ Overview
 This project explores global Covid-19 data and creates additional statistics to be visualized in the future.
 
 **What technologies did I use and why:**  
-I used **Microsoft Excel** to store data extracted from Kaggle (separated initial data into two separate files).  
+I used **Microsoft Excel** to store data extracted from [Coronavirus (Covid-19) Deaths](https://ourworldindata.org/covid-deaths) dataset from [Our World in Data](https://ourworldindata.org).
 I then used **Microsoft SQL Server** to write the appropriate queries to create the statistics I wanted to learn about.
 
 **Skills demonstrated by this project:**  
