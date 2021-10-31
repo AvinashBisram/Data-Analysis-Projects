@@ -30,5 +30,6 @@ Finally, correlations are filtered to find those that may be significant (this p
 Motivation Behind this Project
 ------------------------------
 I made this project to gain experience approaching data analysis and visualization from a statistical perspective.  
-My previous projects explored pre-identified relationships relating to initial questions or topics of curiosity while this project attempted to identify previously unknown  
-relationships within the dataset. I intend to learn more about statistical modeling and application in the future.
+My previous projects explored pre-identified relationships relating to initial questions or topics of curiosity while this project attempted to identify previously unknown
+relationships within the dataset.  
+I intend to learn more about statistical modeling and application in the future.
