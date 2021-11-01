@@ -29,7 +29,7 @@ Skills Demonstrated
 
 **Data Cleaning**
 * Using Python Pandas module (dtype recasting, filling null values, altering columns)
-* Using SQL (creating and dropping columns, filling null values using a self-join, using SPLIT and PARSENAME)
+* Using SQL (creating and dropping columns, filling null values, using SPLIT and PARSENAME)
 
 **Data Analysis**
 * Summarizing relevant trends and features of vizualizations
