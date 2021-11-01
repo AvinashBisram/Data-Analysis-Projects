@@ -1,7 +1,7 @@
 Movie Correlation with Python
 =============================
 
-**Note:** **Note:** If you already have **Jupyter Notebooks** installed you can view the _Movie Correlation with Python.ipynb_ file there but if not, please click [here](https://colab.research.google.com/github/AvinashBisram/PortfolioProjects/blob/main/Movie%20Correlation%20with%20Python/Movie%20Correlation%20with%20Python.ipynb) to view the project in Google Colaboratory. Thank you!
+**Note:** If you already have **Jupyter Notebooks** installed you can view the _Movie Correlation with Python.ipynb_ file there but if not, please click [here](https://colab.research.google.com/github/AvinashBisram/PortfolioProjects/blob/main/Movie%20Correlation%20with%20Python/Movie%20Correlation%20with%20Python.ipynb) to view the project in Google Colaboratory. Thank you!
 
 Overview
 --------
@@ -10,7 +10,7 @@ Overview
 This project uses Python to explore correlations between features of a movie dataset.
 
 **What technologies did I use and why:**  
-Data was extracted from Kaggle's Movie Industry dataset and stored in a CSV file (<em>see movie_correlation.csv</em>).  
+Data was extracted from Kaggle's Movie Industry [dataset](https://www.kaggle.com/danielgrijalvas/movies/version/2) and stored in a CSV file (<em>see movie_correlation.csv</em>).  
 The **Pandas** Python module was used for exploring, cleaning, and preparing the data.  
 The **Seaborn** Python module was used to create the necessary visualizations.
 
