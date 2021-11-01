@@ -21,7 +21,6 @@ The **Seaborn** Python module was used to create the necessary visualizations.
 * Filtering data (using conditional statements)
 * Identifying and Visualizing feature correlation
 
-
 **How is this project organized:**  
 This project starts with initial data exploration before necessary cleaning is performed (dtype casting, adding columns, removing duplicates).  
 Correlations are then identifed and visualized for all numeric feature columns.
