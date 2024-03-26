@@ -11,7 +11,9 @@ Project Descriptions:
 ----------------------
 
 **Featured Project:**  
-* [M1 Expert Pie Analysis](https://github.com/AvinashBisram/PortfolioProjects/tree/main/M1%20Expert%20Pie%20Analysis): Data analysis and visualization of M1 Expert Pies using Python's **Pandas** and **Seaborn** modules.
+* [M1 Expert Pie Analysis](https://github.com/AvinashBisram/Data-Analysis-Projects/tree/main/M1%20Expert%20Pie%20Analysis): Data analysis and visualization of M1 Expert Pies using Python's **Pandas** and **Seaborn** modules.  
+* [Newsfeed Analysis in Tableau](https://github.com/AvinashBisram/Data-Analysis-Projects/tree/main/Newsfeed%20Analysis%20in%20Tableau): Created a [Tableau Dashboard](https://public.tableau.com/app/profile/avinash.bisram/viz/NewsfeedAnalysisDashboard_17108099972670/Dashboard1) that visualizes real user-interaction data relating to 365DataScience's "Newsfeed" service and provides a write-up summarizing the process and further insights. 
+* [Student Onboarding Analysis in Tableau](https://github.com/AvinashBisram/Data-Analysis-Projects/tree/main/Student%20Onboarding%20Analysis%20in%20Tableau): Created a [Tableau Dashboard](https://public.tableau.com/app/profile/avinash.bisram/viz/StudentOnboardingDashboard/Dashboard1) that visualizes student responses to 365DataScience's onboarding survey and provides a write-up summarizing the process and further insights.
 
 
 **Other Projects:**  
