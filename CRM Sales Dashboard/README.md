@@ -5,7 +5,7 @@ CRM Sales Dashboard
 
 In this project, I performed the end-to-end dashboard construction process with the goal of empowering sales managers of a fictional company to measure the quarterly performance of their team of sales agents.
 
-If you would like to navigate to the **final dashboard** in Tableau Public, please [click here](https://public.tableau.com/views/CRMSalesDashboard_17252277791160/RevenueDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+If you would like to navigate to the **final dashboard** in Tableau Public, please [click here](https://public.tableau.com/views/CRMSalesDashboard_17252277791160/RevenueDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).  
 The **project wrap-up** including an explanation of deliverables and a written demo of the dashboard can be found [here](Wrap-Up%20Final%20Insights%20and%20Recommendations.docx).
 
 The general steps taken included:
