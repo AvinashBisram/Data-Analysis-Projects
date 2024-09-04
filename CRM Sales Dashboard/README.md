@@ -1,12 +1,13 @@
 CRM Sales Dashboard 
 ======================================
 
-**Tools Used**: Python, Tableau, Microsoft Excel, Jupyter Notebook, Microsoft Word
+**Tools Used**: Python, Tableau, Microsoft Excel, Jupyter Notebook, Microsoft Word  
 
 In this project, I performed the end-to-end dashboard construction process with the goal of empowering sales managers of a fictional company to measure the quarterly performance of their team of sales agents.
 
-If you would like to navigate to the **final dashboard** in Tableau Public, please [click here](https://public.tableau.com/views/CRMSalesDashboard_17252277791160/RevenueDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).  
-The **project wrap-up** including an explanation of deliverables and a written demo of the dashboard can be found [here](Wrap-Up%20Final%20Insights%20and%20Recommendations.docx).
+* If you would like to navigate to the **final dashboard** in Tableau Public, please [click here](https://public.tableau.com/views/CRMSalesDashboard_17252277791160/RevenueDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).  
+* If you want to watch ME demo the dashboard in a **video presentation**, please [click here](https://www.loom.com/share/f19cbe2045dc410ca67435ff5c87b0e7).  
+* Lastly, the **project wrap-up** including an explanation of deliverables and a written demo of the dashboard can be found [here](Wrap-Up%20Final%20Insights%20and%20Recommendations.docx).
 
 The general steps taken included:
 * **Process Planning:** Visual and written planning for the project as a whole.
